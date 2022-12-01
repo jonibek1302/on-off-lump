@@ -1,0 +1,13 @@
+body {
+  background-color:rgba(128, 128, 128, 0.171) ;
+  transition: all 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+body.white {
+  background-color: #fff;
+  
+}
